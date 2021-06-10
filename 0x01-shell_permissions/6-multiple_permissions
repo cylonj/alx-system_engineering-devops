@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 6-multiple_permissions
+chmod u=rwx,g=rx,o=r 6-multiple_permissions
