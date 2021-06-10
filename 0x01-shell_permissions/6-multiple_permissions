@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R u=rwx,g=rx,o=r 6-multiple_permissions
+chmod u+x,g-r,o+rx 6-multiple_permissions
