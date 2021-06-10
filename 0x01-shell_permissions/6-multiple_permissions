@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+rx 6-multiple_permissions
+chmod u=rwx,g=rwx,o=r 6-multiple_permissions
